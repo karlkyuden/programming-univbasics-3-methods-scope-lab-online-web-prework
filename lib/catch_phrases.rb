@@ -1,5 +1,5 @@
 def mario
-  status = "It's-ame, Mario!"
+  status = "It's-a me, Mario!"
   puts phrase
 end
 
